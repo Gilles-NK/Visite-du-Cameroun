@@ -1,9 +1,0 @@
-Images/Accueil
-Images/cheff-Bamoun
-Images/dance-tradi
-Images/icone-cmr
-Images/plage-kribi
-Images/parallax-flou
-Images/palais-foumban
-Images/logo-cmr
-Images/menu1
